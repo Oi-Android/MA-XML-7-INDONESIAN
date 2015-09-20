@@ -1,29 +1,29 @@
-#MIUI6 - Dutch translations#
+# MIUI6 - terjemahan indonesia #
 
----------------------------------------------------------------------------------------------
+-------------------------------------------------- -------------------------------------------
 
-MIUI6 Dutch Translations (Started August 2014 by Jacketti and Redmaner) 
+MIUI6 Belanda Translations (Dimulai Agustus 2014 oleh Jacketti dan Redmaner)
 
-Currently maintained by Cueie and Redmaner
+Saat ini dikelola oleh Cueie dan Redmaner
 
-Based on the work of http://miui.com and http://xiaomi.eu
+Berdasarkan karya http://miui.com dan http://xiaomi.eu
 
----------------------------------------------------------------------------------------------
+-------------------------------------------------- -------------------------------------------
 
-For more information regarding the structure of this REPO. Please see this Doc: 
+Untuk informasi lebih lanjut mengenai struktur REPO ini. Silakan lihat Doc ini:
 
 http://miui.connortumbleson.com/dev_guide
 
-It can be used in other languages to be included in multi language ROM
+Hal ini dapat digunakan dalam bahasa lain untuk dimasukkan dalam ROM multi bahasa
 
----------------------------------------------------------------------------------------------
+-------------------------------------------------- -------------------------------------------
 
-This translation is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License.
+Terjemahan ini berada dibawah lisensi Creative Commons Atribusi-BY License 4.0 Unported License.
 
----------------------------------------------------------------------------------------------
-A special thanks to all the contributors of this translation:
-Cueie (lead translator)
-Redmaner (repository maintainer)
+-------------------------------------------------- -------------------------------------------
+Khusus terima kasih kepada semua kontributor terjemahan ini:
+Cueie (penerjemah timbal)
+Redmaner (repositori pemelihara)
 cokeguy13
 Jacketti
 SKLCH
